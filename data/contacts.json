@@ -1,0 +1,50 @@
+[
+  {
+    "full_name": "Alejandro Garcia",
+    "phone_number": "321-023-3826",
+    "email": "agarcia@yahoo.com",
+    "tags": [
+      "spanish",
+      "male",
+      "software engineer",
+      "sedantary"
+    ],
+    "id": 1
+  },
+  {
+    "full_name": "Mark jones",
+    "phone_number": "121-272-2817",
+    "email": "mjones@yahoo.com",
+    "tags": [
+      "mechanical engineer",
+      "active",
+      "male",
+      "american"
+    ],
+    "id": 2
+  },
+  {
+    "full_name": "sam smith",
+    "phone_number": "212-278-8127",
+    "email": "samsmith@gmail.com",
+    "tags": [
+      "female",
+      "software engineer",
+      "sedantary",
+      "american"
+    ],
+    "id": 3
+  },
+  {
+    "full_name": "Kalie Thompson",
+    "phone_number": "212-121-2812",
+    "email": "kThompson@gmail.com",
+    "tags": [
+      "female",
+      "fitness coach",
+      "american",
+      "active"
+    ],
+    "id": 4
+  }
+]
